@@ -23,7 +23,6 @@ import SupportBtn from './SupportBtn.vue';
     <NortificationBtn></NortificationBtn>
     <SupportBtn></SupportBtn>
 </template>
-
 <script>
 </script>
 
